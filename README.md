@@ -2,7 +2,7 @@
 
 ### » Computer Science Student 🖥📚
 
-### » Currently aiming to be a backend Software Dev 💼⏳
+### » Currently aiming to be a Software Dev 💼⏳
 
 
 # Stuff I Know 🤓
